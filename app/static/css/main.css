@@ -39,7 +39,7 @@ header h1.logo:hover {
   margin: 0 auto;
 }
 
-div.jumbo {
+.jumbo {
   padding: 10px 0 30px 0;
   background-color: #eeeeee;
   -webkit-border-radius: 6px;
