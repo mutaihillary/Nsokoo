@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #eeeeee;
   color: #444;
 }
 
@@ -11,7 +12,7 @@ body {
 
 header {
   background-color: #2B2B2B;
-  height: 35px;
+  height: 45px;
   width: 100%;
   opacity: .9;
   margin-bottom: 10px;
@@ -41,7 +42,7 @@ header h1.logo:hover {
 
 .jumbo {
   padding: 10px 0 30px 0;
-  background-color: #eeeeee;
+  /*background-color: #eeeeee;*/
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
           border-radius: 6px;
