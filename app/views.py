@@ -1,6 +1,6 @@
 import os
 from flask import Flask, render_template, request, flash, redirect, url_for
-from flask_wtf import FlaskForm as BaseForm
+from flask_wtf import Form as BaseForm
 from forms import ContactForm
 from flask_mail import Mail, Message
 from werkzeug import secure_filename
